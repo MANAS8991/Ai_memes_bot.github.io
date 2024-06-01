@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
 
 bash
 Copy code
-git clone https://github.com/yourusername/ai-meme-generator-web-app.git
+https://github.com/MANAS8991/Ai_memes_bot.github.io.git
 cd ai-meme-generator-web-app
 # Install Dependencies:
 Make sure you have Python installed, then install the required packages:
