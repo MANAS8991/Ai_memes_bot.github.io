@@ -7,7 +7,7 @@ import textwrap
 API_URL_Semantics = "https://api-inference.huggingface.co/models/Salesforce/blip-image-captioning-large"
 API_URL_Caption = "https://api-inference.huggingface.co/models/mistralai/Mixtral-8x7B-Instruct-v0.1"
 
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer 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"}
 
 def generate_semantics(file):
     response = requests.post(API_URL_Semantics, headers=headers, data=file)
