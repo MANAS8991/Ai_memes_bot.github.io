@@ -1,7 +1,7 @@
 # Ai_memes_bot.github.io
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
+![Banner](https://github.com/MANAS8991/Ai_memes_bot.github.io/blob/main/AI1.png)
 # AI Meme Generator Web App
 
 # Overview
@@ -29,6 +29,11 @@ Bold Text: Check the box to make the text bold.
 Font Style: Select a font style from the dropdown menu.
 Add Stickers: Optionally, add stickers to your meme.
 Download Meme: Once you're satisfied with the meme, click the "Download Meme Image" button to save it to your device.
+
+![Example](https://github.com/MANAS8991/Ai_memes_bot.github.io/blob/main/Screenshot%20(130).png)
+![Example](https://github.com/MANAS8991/Ai_memes_bot.github.io/blob/main/Screenshot%20(131).png)
+![Example](https://github.com/MANAS8991/Ai_memes_bot.github.io/blob/main/Screenshot%20(132).png)
+![Example](https://github.com/MANAS8991/Ai_memes_bot.github.io/blob/main/Screenshot%20(133).png)
 # Installation
 To run this project locally, follow these steps:
 
