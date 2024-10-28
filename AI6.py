@@ -7,7 +7,7 @@ import caption  # Import the caption module
 
 API_URL_Semantics = "https://api-inference.huggingface.co/models/Salesforce/blip-image-captioning-large"
 
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": ""}
 
 def generate_semantics(file):
     response = requests.post(API_URL_Semantics, headers=headers, data=file)
